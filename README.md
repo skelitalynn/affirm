@@ -48,7 +48,7 @@
 - 使用 LangChain4j 调用 OpenAI API；
 - 存储于数据库中，可在前端展示。
 
-### 🐳 5. Dockerized Deployment
+### 5. Dockerized Deployment
 
 - 后端、数据库、缓存、前端全部容器化；
 - 一键启动：`docker compose up -d`；
@@ -109,23 +109,11 @@ docker compose up -d
 
 ```
 
----
-
----
-
-## 📚 Documentation｜文档资源
-
-- [API Swagger 文档](http://localhost:8080/swagger-ui.html)
-- [项目架构图（Mermaid）](https://chatgpt.com/g/g-p-68fec9c50b648191b3006e17a7d19ae1/c/docs/architecture.md)
-- [ADR 技术决策记录](https://chatgpt.com/g/g-p-68fec9c50b648191b3006e17a7d19ae1/c/docs/ADR.md)
-- [Runbook 运行与排障指南](https://chatgpt.com/g/g-p-68fec9c50b648191b3006e17a7d19ae1/c/docs/runbook.md)
-
----
 
 ## Author
 
-**Skelita**
+**Skelita Lynn**
 
-- 🎓 华南理工大学 · 软件工程
-- 💡 兴趣方向：后端开发 · Web3 · 分布式系统
+- 🎓 SCUT · 软件工程
+- 💡 方向：后端开发 · Web3 · 分布式系统
 - 📫 [skelitalynn@gmail.com](mailto:skelitalynn@gmail.com)
